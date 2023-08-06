@@ -1,0 +1,449 @@
+
+@media (min-width: 1200px) and (max-width: 1342px) {
+ 
+/* ############################################### header ############################################## */
+
+#header{
+    display: none;
+}
+
+nav .head-logo{
+    display: block !important;
+}
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+/* ############################################### header ############################################## */
+
+#header{
+    display: none;
+}
+
+nav .head-logo{
+    display: block !important;
+}
+}
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+/* ############################################### header ############################################## */
+html{
+    font-size: 0.6rem;
+}
+
+
+#header{
+    display: none;
+}
+
+.navbar-toggler {
+    border: 5px solid #656565 !important;
+      height: 50px;
+      width: 50px;
+      position: absolute;
+      right: 2rem;
+      top:1rem !important;
+  }
+  
+  .navbar-toggler .fa {
+      display: block;
+      color:#E88F2A !important;
+  }
+
+  .dropdown-menu{
+    width: 18%;
+  }
+
+nav{
+    padding: 1rem 0 !important;
+    position: relative;
+}
+
+nav .cake-logo{
+    display: flex !important;
+}
+
+.navbar-nav {
+    padding-left: 1rem !important;
+}
+
+#hero{
+    text-align: center;
+}
+
+#hero .btn-group{
+    padding-left: 27% !important;
+
+}
+
+.title h1{
+    font-size: 4rem;
+}
+
+.video{
+    text-indent: 3px;
+}
+
+.play-head {
+    padding-top: 3rem!important;
+}
+
+
+.about-img img{
+    width: 100%;
+    height: 60%;
+}
+
+.right-about-top-content{
+    margin-top: -25rem ;
+}
+
+.counter-item{
+    margin-top: 3rem;
+}
+
+.filter-section .nav{
+
+    width: 53%;
+}
+
+
+.service-item{
+    top:20rem !important;
+}
+
+.cake-occassion{
+    padding: 2rem;
+}
+
+.cake-discount{
+    padding-top: 22rem;
+    position: absolute;
+    left: 25%;
+}
+
+
+
+.team-card{
+    margin-top: 2rem;
+}
+
+.combo-content p{
+    margin:0rem !important;
+}
+
+.testimonial-item{
+    width: 100% !important;
+    margin: 0 10px;
+}
+
+.form-group-foot button{
+    right: 30%;
+}
+
+
+.contact-card{
+margin-bottom: 2rem;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+/* ############################################### header ############################################## */
+
+   
+#header{
+    display: none;
+}
+
+.navbar-toggler {
+    border: 5px solid #656565 !important;
+      height: 50px;
+      width: 50px;
+      position: absolute;
+      right: 2rem;
+      top:1rem !important;
+  }
+  
+  .navbar-toggler .fa {
+      display: block;
+      color:#E88F2A !important;
+  }
+
+  .dropdown-menu{
+    width: 18%;
+  }
+
+nav{
+    padding: 1rem 0 !important;
+    position: relative;
+}
+
+nav .cake-logo{
+    display: flex !important;
+}
+
+.navbar-nav {
+    padding-left: 1rem !important;
+}
+
+#hero{
+    text-align: center;
+}
+
+#hero .btn-group{
+    padding: 0 10rem;
+}
+
+
+
+.about-img img{
+    width: 100%;
+    height: 60%;
+}
+
+.right-about-top-content{
+    margin-top: -25rem ;
+}
+
+.counter-item{
+    margin-top: 3rem;
+}
+
+.filter-section .nav{
+
+    width: 74%;
+}
+
+
+.service-item{
+    top:20rem !important;
+}
+
+.cake-discount{
+    padding-top: 22rem;
+    position: absolute;
+    left: 25%;
+}
+
+/* .btn-combo{
+    width: 45%;
+} */
+
+.team-card{
+    margin-top: 2rem;
+}
+
+.combo-content p{
+    margin:0rem !important;
+}
+
+.testimonial-item{
+    width: 90% !important;
+    margin: 0 10px;
+}
+
+.contact-card{
+margin-bottom: 2rem;
+
+}
+
+}
+
+
+
+
+
+
+@media (max-width: 575px) {
+    html{
+        font-size: 0.5rem;
+    }
+      
+#header{
+    display: none;
+}
+
+.navbar-toggler{
+    border: 3px solid #656565 !important;
+    color: #E88F2A !important;
+}
+
+
+  .dropdown-menu{
+    width: 30%;
+  }
+
+nav{
+    padding: 1rem 0 !important;
+    position: relative;
+}
+
+nav .cake-logo{
+    display: flex !important;
+}
+
+.navbar-nav {
+    padding-left: 1rem !important;
+}
+
+#hero{
+    text-align: center;
+}
+
+#hero .btn-group{
+    padding-left: 6rem;
+    text-align: center !important;
+}
+
+.title h1{
+    font-size: 4rem;
+}
+
+
+
+.play-head {
+    padding-top: 3rem!important;
+}
+
+
+
+
+
+.about-img img{
+    width: 100%;
+    height: 60%;
+}
+
+.right-about-top-content{
+    margin-top: -15rem ;
+}
+
+.counter-item{
+    margin-top: 3rem;
+}
+
+.filter-section .nav{
+
+    width: 86%;
+}
+.gallery_product{
+    width: 90% !important;
+    margin:20px auto !important;
+}
+.gallery_product img{
+    width: 100%;  
+}
+
+.filter-item-right-content{
+    width: 70% !important;
+}
+
+.inner-content{
+    padding: 1rem 3rem 1rem 0;
+}
+
+.service{
+    height: auto;
+    padding-bottom: 16rem;
+}
+
+.service-item{
+    top:42rem !important;
+    left: 57%;
+}
+
+.service-card{
+    width: 90%;
+}
+
+.cake-occassion{
+    padding: 3rem !important;
+}
+
+.cake-discount{
+    padding-top: 92rem;
+    position: absolute;
+    left: 0%;
+}
+
+
+
+.team-card{
+    margin-top: 2rem;
+    width: 90%;
+    margin:20px auto;
+}
+
+.combo{
+  background-size: 100% 100%;
+}
+.combo-content p{
+    margin:0rem !important;
+    padding: auto 0rem !important;
+}
+
+.testimonial-item{
+    width: 90% !important;
+    margin: 0 10px;
+}
+
+.combo{
+    height: auto;
+}
+
+.contact-card{
+margin: 2rem auto;
+width: 80%;
+
+}
+
+
+form{
+    width: 90%;
+    margin:20px auto;
+}
+
+.footer-logo{
+    width: 100% !important;
+    margin: 0 5rem  0  1rem;
+}
+
+.bottom-footer{
+    margin-top: 40rem;
+}
+
+.form-group-foot button{
+    right: 50%;
+}
+
+
+.copy-section {
+    text-align: center !important;
+    padding: 3rem!important;
+}
+
+
+}
